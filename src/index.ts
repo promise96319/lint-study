@@ -11,6 +11,12 @@ const baddddd: object = {
   ddd
 };
 
+const d = 222;
+
+interface DAA {
+  name: string;
+}
+
 console.log(baddddd);
 
 function a(): void {
