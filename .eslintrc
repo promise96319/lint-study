@@ -1,0 +1,25 @@
+{
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint", "prettier"],
+  "extends": [
+    // "eslint:recommended",
+    // "plugin:@typescript-eslint/eslint-recommended",
+    // "plugin:@typescript-eslint/recommended",
+    "prettier",
+    // "plugin:shopify/esnext"
+    // "airbnb-typescript/base"
+  ],
+  "parserOptions": {
+     "project": "./tsconfig.json"
+  },
+  // "parserOptions": {
+  //   "project": "./tsconfig.json"
+  // },
+  "rules": {
+    "prettier/prettier": 2,
+    "no-console": "off",
+    "comma-dangle": ["error", "never"]
+    // "semi": [2, "never"]
+  }
+}
