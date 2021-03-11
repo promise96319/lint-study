@@ -8,7 +8,7 @@ const ddd = 444;
 const baddddd: object = {
   add: 3,
 
-  ddd
+  ddd,
 };
 
 const d = 222;
@@ -22,8 +22,6 @@ console.log(baddddd);
 function a(): void {
   console.log(233);
   a;
-  console;
-  ddfa;
   d;
 }
 
