@@ -21,6 +21,10 @@ console.log(baddddd);
 
 function a(): void {
   console.log(233);
+  a;
+  console;
+  ddfa;
+  d;
 }
 
 a();
