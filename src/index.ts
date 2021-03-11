@@ -8,7 +8,7 @@ const ddd = 444;
 const baddddd: object = {
   add: 3,
 
-  ddd,
+  ddd
 };
 
 const d = 222;

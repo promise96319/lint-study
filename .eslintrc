@@ -8,7 +8,7 @@
     // "plugin:@typescript-eslint/recommended",
     "prettier",
     // "plugin:shopify/esnext"
-    "airbnb-typescript/base"
+    // "airbnb-typescript/base"
   ],
   "parserOptions": {
      "project": "./tsconfig.json"
